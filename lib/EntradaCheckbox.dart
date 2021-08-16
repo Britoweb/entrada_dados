@@ -50,6 +50,7 @@ class _EntradaCheckboxState extends State<EntradaCheckbox> {
                       "Comida brasileira: " + _comidaBrasileira.toString() +
                       " Comida mexicana: " + _comidaMexicana.toString()
                   );
+
                 },
                 child: Text(
                   "Salvar",
